@@ -6,7 +6,7 @@ Adapted from https://github.com/devonwa/latex-resume.
 
 ## Dev Setup
 
-Install [TinyTex](https://github.com/rstudio/tinytex-releases), add to PATH, then LaTeX Workshop VScode extension
+Install [TinyTex](https://github.com/rstudio/tinytex-releases) (TinyTex-2 largest binary), add to PATH, then LaTeX Workshop VScode extension
 
 ### Formatting
 
